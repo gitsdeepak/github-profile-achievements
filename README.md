@@ -18,25 +18,25 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by | Difficulty |
 | --- | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji | Very Easy
-Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories | Medium
+Heart On Your Sleeve | <img src="/images/heart-on-your-sleeve-default.png" alt="Heart On Your Sleeve Badge" width="80px"> | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji | Very Easy
+Open Sourcerer | <img src="/images/open-sourcerer-default.png" alt="Open Sourcerer Badge" width="80px"> | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories | Medium
 ||| <!-- this empty row is intentional to separate -->
-Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request | Hard
-Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening | Very Easy
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars | Hard
+Pair Extraordinaire | <img src="/images/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="80px"> | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request | Hard
+Quickdraw | <img src="/images/quickdraw-default.png" alt="Quickdraw Badge" width="80px"> | ✔️ | Closed an issue or a pull request within 5 min of opening | Very Easy
+Starstruck | <img src="/images/starstruck-default.png" alt="Starstruck Badge" width="80px"> | ✔️ | Created a repository that has 16 stars | Hard
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers | Medium
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged | Medium
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull request without code review | Medium
+Galaxy Brain | <img src="/images/galaxy-brain-default.png" alt="Galaxy Brain Badge" width="80px"> | ✔️ | 2 accepted answers | Medium
+Pull Shark | <img src="/images/pull-shark-default.png" alt="Pull Shark Badge" width="80px"> | ✔️ | 2 pull requests merged | Medium
+YOLO | <img src="/images/yolo-default.png" alt="YOLO Badge" width="80px"> | ✔️ | Merged own pull request without code review | Medium
 ||| <!-- this empty row is intentional to separate -->
-Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors) | Very Easy
+Public Sponsor | <img src="/images/public-sponsor-default.png" alt="GitHub Sponsor Achievement Badge" width="80px"> | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors) | Very Easy
 
 # ⛔ Un-Obtainable Achievements
 The following are badges that used to be obtainable, but now cannot be obtained:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) | Very Easy
-Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
+Arctic Code Vault Contributor | <img src="/images/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor Achievement Badge" width="80px"> | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) | Very Easy
+Mars 2020 Contributor | <img src="/images/mars-2020-contributor-default.png" alt="Mars 2020 Helicopter Contributor Achievement Badge" width="80px"> | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
 
 ## Tiers
 
@@ -111,9 +111,9 @@ Here are the old designs and names:
 
 | Title | Badge |
 | --- | --- |
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
-GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
+Arctic Code Vault Contributor | <img src="/images/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor Achievement Badge" width="80px">
+GitHub Sponsor | <img src="/images/public-sponsor-default.png" alt="GitHub Sponsor Achievement Badge" width="80px">
+Mars 2020 Helicopter Contributor | <img src="/images/mars-2020-contributor-default.png" alt="Mars 2020 Helicopter Contributor Achievement Badge" width="80px"> 
 
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
