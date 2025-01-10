@@ -118,3 +118,7 @@ Mars 2020 Helicopter Contributor | <img src="/images/mars-2020-contributor-defau
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
 - Credit to @drknzz for the skin tone images, information about it too & inspiration
+
+## See also
+
+* [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)  
